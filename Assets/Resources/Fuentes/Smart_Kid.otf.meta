@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1a7a03989e90a074987d497b10bc10e5
+timeCreated: 1506401654
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Smart Kid
+  fontNames:
+  - Smart Kid
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

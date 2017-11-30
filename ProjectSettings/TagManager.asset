@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background_music
+  - Background_music_map
+  - Mascota
+  - Mamifero
+  - Reptil
+  - Anfibio
+  - Pez
+  - Ave
+  - Slot
+  - Organo
+  - Aracnido
+  - Insecto
+  - Anelido
+  - Molusco
+  - Borde_up
+  - Borde_bottom
+  - Borde_right
+  - Borde_left
+  - Slot_area
+  - Gallina
+  - Sapo
+  - Mariposa
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Objeto
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 1765747881
+    locked: 0
+  - name: Objetos
+    uniqueID: 2486239791
+    locked: 0
+  - name: Medio
+    uniqueID: 1682465527
+    locked: 0
+  - name: Control
+    uniqueID: 1827865105
+    locked: 0
+  - name: Mensajes
+    uniqueID: 2102488219
+    locked: 0
+  - name: Animales
+    uniqueID: 81220621
+    locked: 0

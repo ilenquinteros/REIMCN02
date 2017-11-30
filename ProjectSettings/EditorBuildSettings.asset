@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Escenas/login_scene.unity
+    guid: d71f84d8d17f56b478534269a4eafd4b
+  - enabled: 1
+    path: Assets/Escenas/ayudante_scene.unity
+    guid: 8f0bdac1da4e89446ab365ddf793da0b
+  - enabled: 1
+    path: Assets/Escenas/mascota_scene.unity
+    guid: b1068871bfcd2954e97f04dc201f59a3
+  - enabled: 1
+    path: Assets/Escenas/mapa_scene.unity
+    guid: 872e7681f27bda94a824e2e04e55c55c
+  - enabled: 0
+    path: Assets/Escenas/act_cuerpo/a1_conoce_cuerpo_scene.unity
+    guid: f74d63c6a9dd71045aae523d6013474c
+  - enabled: 1
+    path: Assets/Escenas/act_cuerpo/a1_cuerpo_humano.unity
+    guid: e8dabd47b7bc3c442a481e2708ea913d
+  - enabled: 1
+    path: Assets/Escenas/act_cuerpo/a2_clasificar_animales.unity
+    guid: d8c809880ac15a647bea2fdce541015a
+  - enabled: 1
+    path: Assets/Escenas/act_invert/a3_ciclo_vida.unity
+    guid: 91e7a6f7b80e9ea4dbdb049979883e31
+  - enabled: 1
+    path: Assets/Escenas/act_invert/a4_atrapa_insectos.unity
+    guid: 83764f33ff8a8094e90b03f9cb4a6209
+  - enabled: 0
+    path: Assets/Escenas/act_invert/a4_conoce_invertebrados.unity
+    guid: cd42a44badd0f7447b9aa006cb866bc2
+  - enabled: 1
+    path: Assets/Escenas/act_clima/a5_ciclo_agua.unity
+    guid: 399ec54fd5016ff41a14a5b218e992c7
+  - enabled: 0
+    path: Assets/Escenas/act_clima/a6_instrum_clima.unity
+    guid: e052be5c9f3d6af4aaa31b79c7973030
+  - enabled: 0
+    path: Assets/Escenas/act_clima/a9_conoce_instrum_scene.unity
+    guid: 1f24f0c5885696044a572875ede63419
+  - enabled: 1
+    path: Assets/Escenas/reserva_scene.unity
+    guid: aafb1116c0c52b74390803051cce7fd0
+  - enabled: 0
+    path: 
+    guid: 4650b833b72b0e242ba2193773da3a0a

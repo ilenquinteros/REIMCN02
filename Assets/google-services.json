@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "93094047646",
+    "firebase_url": "https://reim-rean.firebaseio.com",
+    "project_id": "reim-rean",
+    "storage_bucket": "reim-rean.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93094047646:android:c657d128922dca5c",
+        "android_client_info": {
+          "package_name": "com.IgnacioLeon.REIMCN02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93094047646-893pv6mfc6ok2cljmdmrda9bq6lvpsbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3rrG5em_Zx-5BS4PIUi5fu3mdgLI0518"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
